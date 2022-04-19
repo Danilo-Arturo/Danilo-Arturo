@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danilo-Arturo
-- 👀 I’m interested in backend development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me 2danilo1@gmail.com
 
