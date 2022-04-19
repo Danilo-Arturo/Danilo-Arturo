@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danilo-Arturo
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me 2danilo1@gmail.com
 
 <!---
